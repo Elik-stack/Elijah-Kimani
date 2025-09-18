@@ -7,7 +7,7 @@
 I’m passionate about building impactful software solutions and leveraging data-driven insights.  
 My focus areas include **Machine Learning, Web Development, Database Systems, and Data Mining**.  
 
----
+
 
 ## 🛠️ Skills
 
@@ -16,7 +16,6 @@ My focus areas include **Machine Learning, Web Development, Database Systems, an
 **Machine Learning & Data Science:** Regression, Classification, Lasso Regression, SVM, Random Forest, Clustering, Neural Networks  
 **Tools & Platforms:** Git & GitHub, VS Code, Jupyter Notebook, SQLite, Docker  
 **Other Areas:** Web Development, Database Management Systems (DBMS), ICT, Multimedia Systems  
-
 
 
 👉 [See all my repositories](https://github.com/Elik-stack?tab=repositories)  
