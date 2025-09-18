@@ -21,7 +21,7 @@ My focus areas include **Machine Learning, Web Development, Database Systems, an
 
 ## 📌 Featured Projects
 
-🔹 [https://github.com/Elik-stack/fake-profile-identification-using-random-forest-algorithm](https://github.com/Elik-stack/car-price-prediction) – Machine learning model using regression & Lasso regression  
+🔹 [https://github.com/Elik-stack/fake-profile-identification-using-random-forest-algorithm]– Machine learning model using regression & Lasso regression  
 🔹 [Fake User Detection](https://github.com/Elik-stack/fake-user-detection) – Detects fake profiles using SVM & Random Forest with Flask frontend  
 🔹 [Temperature Prediction](https://github.com/Elik-stack/temperature-prediction) – Time-series model for weather forecasting  
 🔹 [Victory School DBMS](https://github.com/Elik-stack/victory-school-dbms) – Flask + SQLite system for managing student clubs and memberships  
